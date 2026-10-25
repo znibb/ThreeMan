@@ -1,0 +1,9 @@
+[submodule "mech"]
+	path = mech
+	url = git@github.com:znibb/ThreeMan_MECH.git
+[submodule "hw"]
+	path = hw
+	url = git@github.com:znibb/ThreeMan_HW.git
+[submodule "sw"]
+	path = sw
+	url = git@github.com:znibb/ThreeMan_SW.git
